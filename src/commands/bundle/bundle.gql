@@ -1,0 +1,6 @@
+query bundle($id: ID!, $block: Block_height){
+    bundle(id: $id, block: $block){
+        id
+        ethPrice
+    }
+}

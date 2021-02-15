@@ -1,0 +1,6 @@
+query bundles($skip: Int, $first: Int, $orderBy: Bundle_orderBy, $orderDirection: OrderDirection, $where: Bundle_filter, $block: Block_height){
+    bundles(skip: $skip, first: $first, orderBy: $orderBy, orderDirection: $orderDirection, where: $where, block: $block){
+        id
+        ethPrice
+    }
+}

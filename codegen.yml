@@ -1,0 +1,14 @@
+overwrite: true
+schema: "https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2"
+documents: "src/**/*.gql"
+generates:
+  src/types.ts:
+    - typescript
+  src/commands/:
+    preset: near-operation-file
+    presetConfig:
+      extension: .ts
+      baseTypesPath: ../types.ts
+    plugins:
+      - typescript-oclif:
+          handlerPath: ../../handler
