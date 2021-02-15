@@ -1,6 +1,6 @@
 overwrite: true
 schema: "https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2"
-documents: "src/**/*.gql"
+#documents: "src/**/*.gql"
 generates:
   src/types.ts:
     - typescript
