@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 releases: [ Release Objects ]
 latest_release: [ Release Object ]
 owner_name: "Aaron Wilmoth"
