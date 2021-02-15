@@ -60,6 +60,9 @@
   "oclif": {
     "commands": "./lib/commands",
     "bin": "unicli",
+    "macos":{
+      "identifier":"com.unicli.cli"
+    },
     "plugins": [
       "@oclif/plugin-help",
       "@oclif/plugin-autocomplete",
@@ -76,7 +79,8 @@
     "prepack": "rm -rf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
     "test": "nyc --extension .ts mocha --forbid-only \"test/**/*.test.ts\"",
     "version": "oclif-dev readme && git add README.md",
-    "codegen": "graphql-codegen --config codegen.yml"
+    "codegen": "graphql-codegen --config codegen.yml",
+    "release": "oclif-dev pack:macos && oclif-dev pack:win"
   },
   "types": "lib/index.d.ts"
 }
