@@ -1,10 +1,4 @@
 theme: jekyll-theme-cayman,
-"license": {
-  "key": "mit",
-  "name": "MIT License",
-  "spdx_id": "MIT",
-  "url": "https://api.github.com/licenses/mit"
-},
-"releases": [ Release Objects ],
-"latest_release": [ Release Object ],
-"owner_name": "Aaron Wilmoth"
+releases: [ Release Objects ],
+latest_release: [ Release Object ],
+owner_name: "Aaron Wilmoth"
