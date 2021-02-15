@@ -1,12 +1,17 @@
 {
-  "name": "unicli",
+  "name": "@awilmoth/unicli",
   "description": "CLI for Uniswap protocol",
   "version": "1.0.0",
   "author": "Aaron Wilmoth",
-  "bin": {
-    "unicli": "./bin/run"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
-  "bugs": "https://github.com/awilmoth/unicli/issues",
+  "bin": {
+    "unicli": "bin/run"
+  },
+  "bugs": {
+    "url": "https://github.com/awilmoth/unicli/issues"
+  },
   "dependencies": {
     "@graphql-codegen/typescript": "^1.21.0",
     "@graphql-codegen/typescript-oclif": "^1.17.9",
@@ -75,7 +80,10 @@
       "@oclif/plugin-warn-if-update-available"
     ]
   },
-  "repository": "awilmoth/unicli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awilmoth/unicli.git"
+  },
   "scripts": {
     "build": "tsc",
     "postpack": "rm -f oclif.manifest.json",
@@ -86,5 +94,8 @@
     "codegen": "graphql-codegen --config codegen.yml",
     "release": "oclif-dev pack:macos && oclif-dev pack:win"
   },
-  "types": "lib/index.d.ts"
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  }
 }

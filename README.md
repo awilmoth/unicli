@@ -17,7 +17,7 @@ CLI for Uniswap protocol
 ```sh-session
 $ npm install -g unicli
 $ unicli COMMAND
-running command...
+
 $ unicli (-v|--version|version)
 unicli/1.0.0 darwin-x64 node-v12.19.0
 $ unicli --help [COMMAND]
