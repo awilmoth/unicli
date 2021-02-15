@@ -4,8 +4,8 @@ unicli
 CLI for Uniswap protocol
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/unicli.svg)](https://npmjs.org/package/unicli)
-[![Downloads/week](https://img.shields.io/npm/dw/unicli.svg)](https://npmjs.org/package/unicli)
+[![Version](https://img.shields.io/npm/v/unicli.svg)](https://www.npmjs.com/package/@awilmoth/unicli)
+[![Downloads/week](https://img.shields.io/npm/dw/unicli.svg)](https://www.npmjs.com/package/@awilmoth/unicli)
 [![License](https://img.shields.io/npm/l/unicli.svg)](https://github.com/awilmoth/unicli/blob/master/package.json)
 
 <!-- toc -->
