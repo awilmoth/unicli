@@ -4,6 +4,6 @@ You can download prebuilt binaries for Mac and Windows [here](https://github.com
 
 Unicli can also be installed via NPM:
 
-```markdown
+```sh-session
 npm install -g @awilmoth/unicli
 
