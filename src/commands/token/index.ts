@@ -171,7 +171,7 @@ export default class token extends Command {
     }),
     id: flags.string({
       multiple: false,
-      required: true,
+      required: false,
     }),
     block: flags.string({
       multiple: false,
