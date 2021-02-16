@@ -1,17 +1,48 @@
-# Welcome to MkDocs
+# unicli
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [unicli.org](https://www.unicli.org).
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### unicli _meta
 
-## Project layout
+* [`unicli _meta`](
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### unicli autocomplete [SHELL]
+
+* [`unicli autocomplete [SHELL]`]
+
+### unicli bundle
+
+* [`unicli bundle`](#unicli-bundle)
+* [`unicli bundles`](#unicli-bundles)
+* [`unicli burn`](#unicli-burn)
+* [`unicli burns`](#unicli-burns)
+* [`unicli commands`](#unicli-commands)
+* [`unicli help [COMMAND]`](#unicli-help-command)
+* [`unicli liquidityPosition`](#unicli-liquidityposition)
+* [`unicli liquidityPositionSnapshot`](#unicli-liquiditypositionsnapshot)
+* [`unicli liquidityPositionSnapshots`](#unicli-liquiditypositionsnapshots)
+* [`unicli liquidityPositions`](#unicli-liquiditypositions)
+* [`unicli mint`](#unicli-mint)
+* [`unicli mints`](#unicli-mints)
+* [`unicli pair`](#unicli-pair)
+* [`unicli pairDayData`](#unicli-pairdaydata)
+* [`unicli pairDayDatas`](#unicli-pairdaydatas)
+* [`unicli pairHourData`](#unicli-pairhourdata)
+* [`unicli pairHourDatas`](#unicli-pairhourdatas)
+* [`unicli pairs`](#unicli-pairs)
+* [`unicli swap`](#unicli-swap)
+* [`unicli swaps`](#unicli-swaps)
+* [`unicli token`](#unicli-token)
+* [`unicli tokenDayData`](#unicli-tokendaydata)
+* [`unicli tokenDayDatas`](#unicli-tokendaydatas)
+* [`unicli tokens`](#unicli-tokens)
+* [`unicli transaction`](#unicli-transaction)
+* [`unicli transactions`](#unicli-transactions)
+* [`unicli uniswapDayData`](#unicli-uniswapdaydata)
+* [`unicli uniswapDayDatas`](#unicli-uniswapdaydatas)
+* [`unicli uniswapFactories`](#unicli-uniswapfactories)
+* [`unicli uniswapFactory`](#unicli-uniswapfactory)
+* [`unicli user`](#unicli-user)
+* [`unicli users`](#unicli-users)
