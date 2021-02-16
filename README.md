@@ -21,6 +21,6 @@ $ unicli COMMAND
 $ unicli (-v|--version|version)
 unicli/1.0.0 darwin-x64 node-v12.19.0
 
-$ unicli --help [COMMAND]
+$ unicli [COMMAND] (-h|--help)
 ```
 <!-- usagestop -->
