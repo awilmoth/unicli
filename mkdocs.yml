@@ -1,3 +1,5 @@
 site_name: unicli
 theme: readthedocs
-
+repo_url: https://github.com/awilmoth/unicli
+site_description: "CLI for Uniswap Protocol V2"
+site_author: "Aaron Wilmoth"
