@@ -1,4 +1,6 @@
 theme: jekyll-theme-architect
-releases: [ Release Objects ]
-latest_release: [ Release Object ]
-owner_name: "Aaron Wilmoth"
+locale                   : "en-US"
+title                    : "unicli.org"
+name                     : &name "Aaron Wilmoth"
+description              : &description "CLI for Uniswap Protocol V2"
+url                      : https://unicli.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
