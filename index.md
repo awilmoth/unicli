@@ -1,4 +1,4 @@
-<p align="center">You can download prebuilt binaries for Mac and Windows <a href="https://github.com/awilmoth/unicli/releases">here</a>.</p>
+<p align="center">Download prebuilt binaries for Mac and Windows <a href="https://github.com/awilmoth/unicli/releases">here</a>.</p>
 
 <p align="center">Documentation is available <a href="https://unicli.readthedocs.io/">here</a>.</p>
 <br>
