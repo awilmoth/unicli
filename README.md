@@ -1,10 +1,11 @@
 unicli
 ======
 
-CLI for Uniswap protocol
+CLI for Uniswap Protocol V2
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![License](https://img.shields.io/npm/l/unicli.svg)](https://github.com/awilmoth/unicli/blob/master/package.json)
+[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)]
+[![License](https://img.shields.io/github/license/awilmoth/unicli)]
+
 <br>
 <p align="left">Download prebuilt binaries for Mac and Windows <a href="https://github.com/awilmoth/unicli/releases">here</a>.</p>
 
