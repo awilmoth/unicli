@@ -1,12 +1,12 @@
 # Documentation
 
-[unicli.org](https://www.unicli.org).
+[unicli.org](https://www.unicli.org)
 
 # Commands
 
 ## unicli _meta
 
-* [`unicli _meta`](
+* [`unicli _meta`]
 
 ## unicli autocomplete [SHELL]
 
