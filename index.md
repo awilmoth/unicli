@@ -1,10 +1,12 @@
-## Download Binaries for Mac and Windows
 
-You can download prebuilt binaries for Mac and Windows [here](https://github.com/awilmoth/unicli/releases).
+{:center: style="text-align: center"}You can download prebuilt binaries for Mac and Windows [here](https://github.com/awilmoth/unicli/releases).{:center}
 
-Documentation is available [here](https://unicli.readthedocs.io/)
 
-The CLI can also be installed via NPM:
+{:center: style="text-align: center"}Documentation is available [here](https://unicli.readthedocs.io/){:center}
+
+
+{:center: style="text-align: center"}The CLI can also be installed via NPM:{:center}
+
 
 {% highlight typescript%}
 npm install -g @awilmoth/unicli
