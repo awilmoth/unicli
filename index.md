@@ -4,7 +4,7 @@ You can download prebuilt binaries for Mac and Windows [here](https://github.com
 
 Documentation is available [here](https://unicli.readthedocs.io/)
 
-Unicli can also be installed via NPM:
+The CLI can also be installed via NPM:
 
 {% highlight typescript%}
 npm install -g @awilmoth/unicli
