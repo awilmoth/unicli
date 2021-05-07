@@ -1,7 +1,12 @@
 overwrite: true
 schema: "https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v3"
-#documents: "src/**/*.gql"
+documents: "src/**/*.gql"
 generates:
+  introspection.json:
+    plugins:
+      - introspection
+    schemaDescription:
+      - true
   src/types.ts:
     - typescript
   src/commands/:

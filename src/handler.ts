@@ -15,7 +15,7 @@ interface QueryHandlerProps {
 }
 
 // Change this URL to the endpoint your CLI will use
-const client = new GraphQLClient("https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2");
+const client = new GraphQLClient("https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v3");
 
 const handler = ({ command, query, variables }: QueryHandlerProps) => {
   return client
